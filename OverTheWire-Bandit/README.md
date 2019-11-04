@@ -4,13 +4,17 @@ cat readme
 > boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 ```
 
+# Level 1
 ```
 cat < -
 > CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 ```
-# Level 1
 
 # Level 2
+```
+cat < spaces\ in\ this\ filename
+> UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+```
 
 # Level 3
 
@@ -81,7 +85,7 @@ cat < -
 | Level 0  | bandit0  | bandit0                          |
 | Level 1  | bandit1  | boJ9jbbUNNfktd78OOpsqOltutMc3MY1 |
 | Level 2  | bandit2  | CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9 |
-| Level 3  | bandit3  | |
+| Level 3  | bandit3  | UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK |
 | Level 4  | bandit4  | |
 | Level 5  | bandit5  | |
 | Level 6  | bandit6  | |
