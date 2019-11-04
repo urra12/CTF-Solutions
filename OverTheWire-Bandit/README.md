@@ -4,7 +4,10 @@ cat readme
 > boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 ```
 
-
+```
+cat < -
+> CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+```
 # Level 1
 
 # Level 2
@@ -74,10 +77,10 @@ cat readme
 # Passwords
 
 | Level    | Username |Password|
-|:--------:|:--------:|:-------------:|
-| Level 0  | bandit0  | bandit0 |
-| Level 1  | bandit1  |  boJ9jbbUNNfktd78OOpsqOltutMc3MY1 |
-| Level 2  | bandit2  | |
+|:--------:|:--------:|:--------------------------------:|
+| Level 0  | bandit0  | bandit0                          |
+| Level 1  | bandit1  | boJ9jbbUNNfktd78OOpsqOltutMc3MY1 |
+| Level 2  | bandit2  | CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9 |
 | Level 3  | bandit3  | |
 | Level 4  | bandit4  | |
 | Level 5  | bandit5  | |
