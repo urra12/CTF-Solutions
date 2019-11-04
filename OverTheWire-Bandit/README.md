@@ -1,1 +1,106 @@
+# Level 0
 
+# Level 1
+
+# Level 2
+
+# Level 3
+
+# Level 4
+
+# Level 5
+
+# Level 6
+
+# Level 7
+
+# Level 8
+
+# Level 9
+
+# Level 10
+
+# Level 11
+
+# Level 12
+
+# Level 13
+
+# Level 14
+
+# Level 15
+
+# Level 16
+
+# Level 17
+
+# Level 18
+
+# Level 19
+
+# Level 20
+
+# Level 21
+
+# Level 22
+
+# Level 23
+
+# Level 24
+
+# Level 25
+
+# Level 26
+
+# Level 27
+
+# Level 28
+
+# Level 29
+
+# Level 30
+
+# Level 31
+
+# Level 32
+
+# Level 33
+
+# Passwords
+
+| Level    | Password |Password|
+|:--------:|:--------:|:-------------:|
+| Level 0  | bandit0  | |
+| Level 1  | bandit1  | |
+| Level 2  | bandit2  | |
+| Level 3  | bandit3  | |
+| Level 4  | bandit4  | |
+| Level 5  | bandit5  | |
+| Level 6  | bandit6  | |
+| Level 7  | bandit7  | |
+| Level 8  | bandit8  | |
+| Level 9  | bandit9  | |
+| Level 10 | bandit10 | |
+| Level 11 | bandit11 | |
+| Level 12 | bandit12 | |
+| Level 13 | bandit13 | |
+| Level 14 | bandit14 | |
+| Level 15 | bandit15 | |
+| Level 16 | bandit16 | |
+| Level 17 | bandit17 | |
+| Level 18 | bandit18 | |
+| Level 19 | bandit19 | |
+| Level 20 | bandit20 | |
+| Level 21 | bandit21 | |
+| Level 22 | bandit22 | |
+| Level 23 | bandit23 | |
+| Level 24 | bandit24 | |
+| Level 25 | bandit25 | |
+| Level 26 | bandit26 | |
+| Level 27 | bandit27 | |
+| Level 28 | bandit28 | |
+| Level 29 | bandit29 | |
+| Level 30 | bandit30 | |
+| Level 31 | bandit31 | |
+| Level 32 | bandit32 | |
+| Level 33 | bandit33 | |
