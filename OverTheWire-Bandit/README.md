@@ -20,7 +20,7 @@ cat < spaces\ in\ this\ filename
 ```
 cd inhere/
 
-ls -A
+ls -lA
 > .hidden
 
 cat .hidden
@@ -28,6 +28,16 @@ cat .hidden
 ```
 
 # Level 4
+```
+cd inhere/
+
+ls -lA
+
+file ./*
+
+cat < -file07
+>koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+```
 
 # Level 5
 
@@ -96,7 +106,7 @@ cat .hidden
 | Level 2  | bandit2  | CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9 |
 | Level 3  | bandit3  | UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK |
 | Level 4  | bandit4  | pIwrPrtPN36QITSp3EQaw936yaFoFgAB |
-| Level 5  | bandit5  | |
+| Level 5  | bandit5  | koReBOKuIDDepwhWk7jZC0RTdopnAYKh |
 | Level 6  | bandit6  | |
 | Level 7  | bandit7  | |
 | Level 8  | bandit8  | |
