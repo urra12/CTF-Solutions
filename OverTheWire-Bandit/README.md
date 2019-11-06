@@ -61,6 +61,10 @@ HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
 ```
 
 # Level 7
+```
+cat data.txt | grep millionth
+> cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+```
 
 # Level 8
 
@@ -126,7 +130,7 @@ HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
 | Level 5  | bandit5  | koReBOKuIDDepwhWk7jZC0RTdopnAYKh |
 | Level 6  | bandit6  | DXjZPULLxYr17uwoI01bNLQbtFemEgo7 |
 | Level 7  | bandit7  | HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs |
-| Level 8  | bandit8  | |
+| Level 8  | bandit8  | cvX2JJa4CFALtqS87jk27qwqGhBM9plV |
 | Level 9  | bandit9  | |
 | Level 10 | bandit10 | |
 | Level 11 | bandit11 | |
