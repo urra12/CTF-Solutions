@@ -82,6 +82,10 @@ strings data.txt | grep ===
 ```
 
 # Level 10
+```
+base64 -d data.txt
+> The password is IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+```
 
 # Level 11
 
@@ -144,7 +148,7 @@ strings data.txt | grep ===
 | Level 8  | bandit8  | cvX2JJa4CFALtqS87jk27qwqGhBM9plV |
 | Level 9  | bandit9  | UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR |
 | Level 10 | bandit10 | truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk |
-| Level 11 | bandit11 | |
+| Level 11 | bandit11 | IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR |
 | Level 12 | bandit12 | |
 | Level 13 | bandit13 | |
 | Level 14 | bandit14 | |
