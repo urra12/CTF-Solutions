@@ -1,1 +1,118 @@
+# Level 0
 
+
+# Level 1
+
+
+# Level 2
+
+
+# Level 3
+
+
+# Level 4
+
+
+# Level 5
+
+
+# Level 6
+
+
+# Level 7
+
+
+# Level 8
+
+
+# Level 9
+
+
+# Level 10
+
+
+# Level 11
+
+
+# Level 12
+
+# Level 13
+
+# Level 14
+
+# Level 15
+
+# Level 16
+
+# Level 17
+
+# Level 18
+
+# Level 19
+
+# Level 20
+
+# Level 21
+
+# Level 22
+
+# Level 23
+
+# Level 24
+
+# Level 25
+
+# Level 26
+
+# Level 27
+
+# Level 28
+
+# Level 29
+
+# Level 30
+
+# Level 31
+
+# Level 32
+
+# Level 33
+
+# Passwords
+
+| Level    | Username |Password|
+|:--------:|:--------:|:--------------------------------:|
+| Level 0  | natas0  | natas0                          |
+| Level 1  | natas1  |  |
+| Level 2  | natas2  |  |
+| Level 3  | natas3  |  |
+| Level 4  | natas4  |  |
+| Level 5  | natas5  |  |
+| Level 6  | natas6  |  |
+| Level 7  | natas7  |  |
+| Level 8  | natas8  |  |
+| Level 9  | natas9  |  |
+| Level 10 | natas10 |  |
+| Level 11 | natas11 |  |
+| Level 12 | natas12 |  |
+| Level 13 | natas13 | |
+| Level 14 | natas14 | |
+| Level 15 | natas15 | |
+| Level 16 | natas16 | |
+| Level 17 | natas17 | |
+| Level 18 | natas18 | |
+| Level 19 | natas19 | |
+| Level 20 | natas20 | |
+| Level 21 | natas21 | |
+| Level 22 | natas22 | |
+| Level 23 | natas23 | |
+| Level 24 | natas24 | |
+| Level 25 | natas25 | |
+| Level 26 | natas26 | |
+| Level 27 | natas27 | |
+| Level 28 | natas28 | |
+| Level 29 | natas29 | |
+| Level 30 | natas30 | |
+| Level 31 | natas31 | |
+| Level 32 | natas32 | |
+| Level 33 | natas33 | |
