@@ -5,7 +5,8 @@ Click over see source code, and the password is in one of the comments: gtVrDuiD
 Since left click is blocked, we can open the developers console with F12: The password for natas2 is ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi 
 
 # Level 2
-
+If we navigate to the /files/ folder, there is a file called users, which contains the password:
+natas3:sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14
 
 # Level 3
 
@@ -85,7 +86,7 @@ Since left click is blocked, we can open the developers console with F12: The pa
 | Level 0  | natas0  | natas0                          |
 | Level 1  | natas1  | gtVrDuiDfck831PqWsLEZy5gyDz1clto  |
 | Level 2  | natas2  | ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi |
-| Level 3  | natas3  |  |
+| Level 3  | natas3  | sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14 |
 | Level 4  | natas4  |  |
 | Level 5  | natas5  |  |
 | Level 6  | natas6  |  |
