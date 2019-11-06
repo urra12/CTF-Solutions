@@ -67,6 +67,10 @@ cat data.txt | grep millionth
 ```
 
 # Level 8
+```
+cat data.txt | sort | uniq -u
+> UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+```
 
 # Level 9
 
@@ -131,7 +135,7 @@ cat data.txt | grep millionth
 | Level 6  | bandit6  | DXjZPULLxYr17uwoI01bNLQbtFemEgo7 |
 | Level 7  | bandit7  | HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs |
 | Level 8  | bandit8  | cvX2JJa4CFALtqS87jk27qwqGhBM9plV |
-| Level 9  | bandit9  | |
+| Level 9  | bandit9  | UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR |
 | Level 10 | bandit10 | |
 | Level 11 | bandit11 | |
 | Level 12 | bandit12 | |
