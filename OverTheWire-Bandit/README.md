@@ -88,6 +88,10 @@ base64 -d data.txt
 ```
 
 # Level 11
+```
+cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+> The password is 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+```
 
 # Level 12
 
@@ -149,7 +153,7 @@ base64 -d data.txt
 | Level 9  | bandit9  | UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR |
 | Level 10 | bandit10 | truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk |
 | Level 11 | bandit11 | IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR |
-| Level 12 | bandit12 | |
+| Level 12 | bandit12 | 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu |
 | Level 13 | bandit13 | |
 | Level 14 | bandit14 | |
 | Level 15 | bandit15 | |
