@@ -73,6 +73,13 @@ cat data.txt | sort | uniq -u
 ```
 
 # Level 9
+```
+strings data.txt | grep ===
+>2========== the
+========== password
+========== isa
+========== truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+```
 
 # Level 10
 
@@ -136,7 +143,7 @@ cat data.txt | sort | uniq -u
 | Level 7  | bandit7  | HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs |
 | Level 8  | bandit8  | cvX2JJa4CFALtqS87jk27qwqGhBM9plV |
 | Level 9  | bandit9  | UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR |
-| Level 10 | bandit10 | |
+| Level 10 | bandit10 | truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk |
 | Level 11 | bandit11 | |
 | Level 12 | bandit12 | |
 | Level 13 | bandit13 | |
