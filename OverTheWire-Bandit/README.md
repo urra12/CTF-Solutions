@@ -36,10 +36,18 @@ ls -lA
 file ./*
 
 cat < -file07
->koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+> koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 ```
 
 # Level 5
+```
+cd inhere/
+
+du ./ -ab | grep 1033
+
+cat ./maybehere07/.file2
+> DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+```
 
 # Level 6
 
@@ -107,7 +115,7 @@ cat < -file07
 | Level 3  | bandit3  | UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK |
 | Level 4  | bandit4  | pIwrPrtPN36QITSp3EQaw936yaFoFgAB |
 | Level 5  | bandit5  | koReBOKuIDDepwhWk7jZC0RTdopnAYKh |
-| Level 6  | bandit6  | |
+| Level 6  | bandit6  | DXjZPULLxYr17uwoI01bNLQbtFemEgo7 |
 | Level 7  | bandit7  | |
 | Level 8  | bandit8  | |
 | Level 9  | bandit9  | |
