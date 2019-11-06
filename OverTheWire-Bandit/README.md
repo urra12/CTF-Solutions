@@ -50,6 +50,15 @@ cat ./maybehere07/.file2
 ```
 
 # Level 6
+```
+mkdir /tmp/urra
+
+find / -user bandit7 -group bandit6 2>/tmp/urra/temp
+> /var/lib/dpkg/info/bandit7.password
+
+cat /var/lib/dpkg/info/bandit7.password
+HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+```
 
 # Level 7
 
@@ -116,7 +125,7 @@ cat ./maybehere07/.file2
 | Level 4  | bandit4  | pIwrPrtPN36QITSp3EQaw936yaFoFgAB |
 | Level 5  | bandit5  | koReBOKuIDDepwhWk7jZC0RTdopnAYKh |
 | Level 6  | bandit6  | DXjZPULLxYr17uwoI01bNLQbtFemEgo7 |
-| Level 7  | bandit7  | |
+| Level 7  | bandit7  | HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs |
 | Level 8  | bandit8  | |
 | Level 9  | bandit9  | |
 | Level 10 | bandit10 | |
