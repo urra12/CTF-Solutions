@@ -9,7 +9,9 @@ If we navigate to the /files/ folder, there is a file called users, which contai
 natas3:sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14
 
 # Level 3
-
+first look the robots.txt file, which disallows the next path: /s3cr3t/
+there can be found the users.txt file which contains our password:
+natas4:Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ
 
 # Level 4
 
@@ -87,7 +89,7 @@ natas3:sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14
 | Level 1  | natas1  | gtVrDuiDfck831PqWsLEZy5gyDz1clto  |
 | Level 2  | natas2  | ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi |
 | Level 3  | natas3  | sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14 |
-| Level 4  | natas4  |  |
+| Level 4  | natas4  | Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ |
 | Level 5  | natas5  |  |
 | Level 6  | natas6  |  |
 | Level 7  | natas7  |  |
