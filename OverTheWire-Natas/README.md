@@ -24,7 +24,8 @@ Capture again the request with a proxy, and change the value of the proxy logedi
 aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1
 
 # Level 6
-
+if we analize the code of the website, we can see that the secret that we need is included on the ___. The secret is: FOEIUWGHFEEUHOFUOIU
+The password is: 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9
 
 # Level 7
 
@@ -96,7 +97,7 @@ aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1
 | Level 4  | natas4  | Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ |
 | Level 5  | natas5  | iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq |
 | Level 6  | natas6  | aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1 |
-| Level 7  | natas7  |  |
+| Level 7  | natas7  | 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9 |
 | Level 8  | natas8  |  |
 | Level 9  | natas9  |  |
 | Level 10 | natas10 |  |
