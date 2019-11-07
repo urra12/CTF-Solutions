@@ -31,7 +31,10 @@ The password is: 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9
 We can find the password under: hxxp://natas7.natas.labs.overthewire.org/index.php?page=../../../../etc/natas_webpass/natas8
 DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe
 # Level 8
+echo 3d3d516343746d4d6d6c315669563362 | xxd -r -p | rev | base64 -d
+> oubWYf2kBq
 
+W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl 
 
 # Level 9
 
@@ -99,7 +102,7 @@ DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe
 | Level 6  | natas6  | aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1 |
 | Level 7  | natas7  | 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9 |
 | Level 8  | natas8  | DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe |
-| Level 9  | natas9  |  |
+| Level 9  | natas9  | W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl |
 | Level 10 | natas10 |  |
 | Level 11 | natas11 |  |
 | Level 12 | natas12 |  |
