@@ -14,6 +14,9 @@ there can be found the users.txt file which contains our password:
 natas4:Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ
 
 # Level 4
+Using a proxy intercept the request and change the value in the referred field with: http://natas5.natas.labs.overthewire.org/
+
+iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq
 
 
 # Level 5
