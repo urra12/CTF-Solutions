@@ -20,7 +20,8 @@ iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq
 
 
 # Level 5
-
+Capture again the request with a proxy, and change the value of the proxy logedin from 0 to 1.
+aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1
 
 # Level 6
 
@@ -94,7 +95,7 @@ iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq
 | Level 3  | natas3  | sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14 |
 | Level 4  | natas4  | Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ |
 | Level 5  | natas5  | iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq |
-| Level 6  | natas6  |  |
+| Level 6  | natas6  | aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1 |
 | Level 7  | natas7  |  |
 | Level 8  | natas8  |  |
 | Level 9  | natas9  |  |
