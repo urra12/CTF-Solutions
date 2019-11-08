@@ -37,8 +37,8 @@ echo 3d3d516343746d4d6d6c315669563362 | xxd -r -p | rev | base64 -d
 W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl 
 
 # Level 9
-
-
+write: aaa; cat /etc/natas_webpass/natas10
+nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu
 # Level 10
 
 
@@ -103,7 +103,7 @@ W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl
 | Level 7  | natas7  | 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9 |
 | Level 8  | natas8  | DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe |
 | Level 9  | natas9  | W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl |
-| Level 10 | natas10 |  |
+| Level 10 | natas10 | nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu |
 | Level 11 | natas11 |  |
 | Level 12 | natas12 |  |
 | Level 13 | natas13 | |
