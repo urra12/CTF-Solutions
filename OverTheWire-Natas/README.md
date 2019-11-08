@@ -40,8 +40,8 @@ W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl
 write: aaa; cat /etc/natas_webpass/natas10
 nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu
 # Level 10
-
-
+.* /etc/natas_webpass/natas11
+U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
 # Level 11
 
 
@@ -104,7 +104,7 @@ nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu
 | Level 8  | natas8  | DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe |
 | Level 9  | natas9  | W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl |
 | Level 10 | natas10 | nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu |
-| Level 11 | natas11 |  |
+| Level 11 | natas11 | U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK |
 | Level 12 | natas12 |  |
 | Level 13 | natas13 | |
 | Level 14 | natas14 | |
